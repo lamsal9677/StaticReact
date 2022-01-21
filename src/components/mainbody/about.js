@@ -17,7 +17,7 @@ export default function About() {
           I am interetsed in React. Let's learn react.
           <ul>
             <li>React is interesting</li>
-            <li>React is fun</li>
+            <li>React is very fun</li>
             <li>React is modular</li>
           </ul>
         </div>
